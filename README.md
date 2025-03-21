@@ -91,17 +91,27 @@ def train_model(model, train_loader, num_epochs=3):
 ```
 
 ## OUTPUT
+
 ### Training Loss per Epoch
+
 <img width="342" alt="Screenshot 2025-03-21 at 10 25 50 AM" src="https://github.com/user-attachments/assets/30c872bb-a4c6-4d7b-ae1f-fd4b3ffa5980" />
 
+
+
 ### Confusion Matrix
+
 <img width="776" alt="Screenshot 2025-03-21 at 10 26 20 AM" src="https://github.com/user-attachments/assets/c1d665e0-0155-4526-8550-f7fafafa182c" />
 
+
+
 ### Classification Report
+
 <img width="519" alt="Screenshot 2025-03-21 at 10 28 05 AM" src="https://github.com/user-attachments/assets/347c51d3-b379-4b8f-8052-305400edfe60" />
 
 
+
 ### New Sample Data Prediction
+
 <img width="466" alt="Screenshot 2025-03-21 at 10 37 14 AM" src="https://github.com/user-attachments/assets/d988a662-a70e-4e8a-a0df-3568fccae86b" />
 
 
