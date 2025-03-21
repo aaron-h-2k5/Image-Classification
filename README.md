@@ -9,8 +9,8 @@ To Develop a convolutional deep neural network for image classification and to v
 The goal of this project is to develop a Convolutional Neural Network (CNN) for image classification using the MNIST dataset. The MNIST dataset contains handwritten digit images (0-9), and the model aims to classify them correctly. The challenge is to achieve high accuracy while maintaining efficiency.
 
 ## Neural Network Model
+![nn architecture image classification](https://github.com/user-attachments/assets/e71e78c4-bae9-4140-8993-74dcfccf849c)
 
-Include the neural network model diagram.
 
 ## DESIGN STEPS
 
@@ -102,7 +102,7 @@ def train_model(model, train_loader, num_epochs=3):
 
 
 ### New Sample Data Prediction
-<img width="477" alt="Screenshot 2025-03-21 at 10 29 30 AM" src="https://github.com/user-attachments/assets/0ae651b2-b748-4c3e-9744-e8895ea9dae8" />
+<img width="466" alt="Screenshot 2025-03-21 at 10 37 14 AM" src="https://github.com/user-attachments/assets/d988a662-a70e-4e8a-a0df-3568fccae86b" />
 
 
 ## RESULT
